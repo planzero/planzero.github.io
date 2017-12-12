@@ -1,5 +1,1 @@
-# Coming Soon
-
-Fall 2018
-
-master
+# Coming Fall 2018
